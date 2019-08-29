@@ -1,0 +1,12 @@
+# dotfiles
+.*
+!.gitignore
+!.mailmap
+# compiled python files
+*.pyc
+*.py[co]
+__pycache__/
+tokenconfig.py
+
+# emacs backup files
+*~
