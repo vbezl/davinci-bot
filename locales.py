@@ -116,8 +116,8 @@ The cost of a robot license depends on the amount on the trading account that th
         'en': "Why only these brokers?"
     },
     "DaVinci работает на двух брокерах: Roboforex, Forex4You...": {
-        'ru': "DaVinci работает на двух брокерах: Roboforex, Forex4You.",
-        'en': "DaVinci works on two brokers: Roboforex, Forex4You."
+        'ru': "DaVinci работает на двух брокерах: Roboforex, SpartanForex (для крупных депозитов).",
+        'en': "DaVinci works on two brokers: Roboforex, SpartanForex (for big amounts)."
     },
     "Брокер - это ...": {
         'ru': "Брокер - это компания, открывающия своим клиентам доступ к торговле на финансовых рынках.",
@@ -220,35 +220,55 @@ The cost of a robot license depends on the amount on the trading account that th
         'en': "I want to talk to human"
     },
     "Стоимость отличается суммой, которой торгует робот...": {
-        'ru': "Лицензия на робота покупается на 1 год. Стоимость зависит от суммы на торговом счету, а соответственно и максимальным заработком. Стоимость за год: $250 - сумма на счету до $2000, $500 - до $5000, $1000 - до $30,000 (2 робота по $15k), $2000 - до $100,000 (2 робота по $50k)",
-        'en': "The license for the robot is bought for 1 year. The cost depends on the amount in the trading account, and, accordingly, the maximum earnings. Cost per year: $250 - the amount in the account is up to $2000, $500 - up to $5000, $1000 - up to $30,000 (2 robots, up to $15k each), $2000 - up to $100,000 (2 robots, up to $50k each)"
+        'ru': """Лицензия на робота покупается на 1 год. Стоимость зависит от суммы на торговом счету, а соответственно и максимальным заработком.
+Виды лицензий (цена за 1 год):
+✅ $250 - торги до $2000 на счету брокера
+✅ $500 - торги до $5000 на счету брокера 
+✅ $1000 - торги до $30 000 на счету брокера (2 робота по $15k)
+✅ $2000 - торги до $100 000 на счету брокера (2 робота по $50k)
+""",
+        'en': """The license for the robot is bought for 1 year. The cost depends on the amount in the trading account, and, accordingly, the maximum earnings.
+Cost per year: 
+✅ $250 - trades up to $2000 on broker account
+✅ $500 - trades up to $5000 on broker account
+✅ $1000 - trades up to $30 000 on broker account (2 robots, up to $15k each)
+✅ $2000 - trades up to $100 000 on broker account (2 robots, up to $50k each)
+"""
     },
+    # по этой ссылке: https://da-vinci.pro/signup?aff=6b64df9e
+    # по этой ссылке: https://rbfxdirect.com/ru/lk/?a=xmoe
+    # меня: @vbezl.
+    # Хотите сразу поговорить с человеком? Пишите мне в Телеграм: @vbezl
 
     "Регистрируйся по этой ссылке...": {
         'ru': """Весь процесс подключения робота состоит всего из трех шагов:
-1) Регистрация и покупка лицензии робота по этой ссылке: https://da-vinci.pro/signup?aff=6b64df9e
-2) Открытие торгового счета у брокера по этой ссылке: https://rbfxdirect.com/ru/lk/?a=xmoe
+1) Регистрация и покупка лицензии робота (ссылка 1)
+2) Открытие торгового счета у брокера (ссылка 2)
 3) Настройка торгового терминала на удаленном рабочем столе (есть простая пошаговая инструкция и видео).
 
-На любом из этапов выше - будет поддержка в чатах в Телеграм и Вайбер (добавлю сразу после первого шага), а также можно спрашивать любые вопросы лично у меня: @vbezl.
+Ссылку 1 и 2 - запрашивайте у человека, прикласившего Вас в этот канал/бот, от кого Вы узнали о ДаВинчи.
 
-Хотите сразу поговорить с человеком? Пишите мне в Телеграм: @vbezl
+На любом из этапов выше - будет поддержка в чатах в Телеграм и Вайбер (добавлю сразу после первого шага), а также можно спрашивать любые вопросы лично у того, кто познакомил с ДаВинчи.
 """,
-        
+    # this link: https://da-vinci.pro/signup?aff=6b64df9e
+    # this link: https://my.roboforex.com/en/?a=xmoe
+    # personally  me: @vbezl
+    # Want to talk to a human right away? Write me on Telegram: @vbezl
         'en': """The whole process of connecting the robot consists of only three steps:
-1) Registration and purchase of a robot license using this link: https://da-vinci.pro/signup?aff=6b64df9e
-2) Opening a trading account with a broker using this link: https://my.roboforex.com/en/?a=xmoe
+1) Registration and purchase of a robot license using "link 1"
+2) Opening a trading account with a broker using "link 2"
 3) Setting up a trading terminal on a remote desktop (there is a simple step-by-step instruction and video).
 
-At any of the stages above - there will be support in chat rooms in Telegram and Viber (I will add you right after the first step), and you can also ask any questions personally me: @vbezl
+Link 1 and 2 - request from the person who invited you to this channel/bot, who told you about DaVinci. 
 
-Want to talk to a human right away? Write me on Telegram: @vbezl
+At any of the stages above - there will be support in chat rooms in Telegram and Viber (I will add you right after the first step), and you can also ask any questions person who told you about DaVinci.
 """
     },
-
+    # сюда: @vbezl
+    # here: @vbezl
     "Это бот, пожалуйста используйте меню ниже...": {
-        'ru': "Я всего лишь бот, поэтому если Вы хотите пообщаться с человеком, пожалуйста, напишите сюда: @vbezl",
-        'en': "I am just a bot, so if you would like to talk to a human - please write here: @vbezl"
+        'ru': "Я всего лишь бот, поэтому если Вы хотите пообщаться с человеком, пожалуйста, напишите человеку, который рассказал Вам о ДаВинчи.",
+        'en': "I am just a bot, so if you would like to talk to a human - please write to the person who told you about DaVinci."
     },
 
 }
